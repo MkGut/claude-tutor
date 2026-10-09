@@ -1,0 +1,6 @@
+{
+  "name": "tutor",
+  "version": "0.1.0",
+  "description": "A sidebar tutor that watches what Claude is doing and teaches you the concepts and decisions behind it, with quick check-yourself questions.",
+  "types": "./types/index.d.ts"
+}
